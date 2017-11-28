@@ -1,0 +1,23 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "ass ass ass",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests?  HAH"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mic-J-Lee/SASSy-assy-assy-assy.git"
+  },
+  "keywords": [
+    "SASS",
+    "ass"
+  ],
+  "author": "Mic",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Mic-J-Lee/SASSy-assy-assy-assy/issues"
+  },
+  "homepage": "https://github.com/Mic-J-Lee/SASSy-assy-assy-assy#readme"
+}
