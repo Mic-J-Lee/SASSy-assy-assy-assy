@@ -75,7 +75,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__js_unicorns_js___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__js_unicorns_js__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__scss_base_scss__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__scss_base_scss___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__scss_base_scss__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__scss_typography_scss__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__scss_typography_scss__ = __webpack_require__(4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__scss_typography_scss___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__scss_typography_scss__);
 
 
@@ -105,11 +105,7 @@ console.log('Hello, unicorns!')
 // removed by extract-text-webpack-plugin
 
 /***/ }),
-/* 4 */,
-/* 5 */,
-/* 6 */,
-/* 7 */,
-/* 8 */
+/* 4 */
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
