@@ -26,5 +26,5 @@
   "scripts": {
     "build": "webpack",
     "start": "webpack --watch"
-  },
+  }
 }
